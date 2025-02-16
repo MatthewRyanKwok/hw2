@@ -1,3 +1,12 @@
-*.o
 amazon
-hw2_tests/
+*.o
+hw2_tests
+book.o
+clothing.o
+db_parser.o
+movie.o
+mydatastore.o
+product.o
+product_parser.o
+user.o
+util.o
